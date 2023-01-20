@@ -22,11 +22,11 @@
 .stl_02 {
 	font-size: 1em;
 	line-height: 0.0em;
-	width: 70.08334em;
+ 
 	height: 49.58333em;
 	border-style: none;
 	display: block;
-	margin: 0em;
+	margin: 6em;
 }
 
 @supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
