@@ -1,0 +1,114 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 70.08334em;
+	height: 49.58333em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 70.08334em;
+}
+.stl_06 {
+	height: 4.958333em;
+}
+.stl_ie .stl_06 {
+	height: 49.58333em;
+}
+.stl_07 {
+	-o-transform: scale(1,1.000002);
+	-webkit-transform: scale(1,1.000002);
+	-moz-transform: scale(1,1.000002);
+	transform: scale(1,1.000002);
+	-o-transform-origin: top left;
+	-webkit-transform-origin: top left;
+	-moz-webkit-transform-origin: top left;
+	-transform-origin: top left;
+	-ms-transform: matrix(1,0,0,1.000002,0,-0);
+	-ms-transform-origin: top left;
+}
+@font-face {
+	font-family:"FFUDUT+Montserrat-Bold";
+	src:url("975f5623-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_08 {
+	font-size: 2.66666em;
+	font-family: "FFUDUT+Montserrat-Bold";
+	color: #FFFFFF;
+}
+.stl_09 {
+	line-height: 1.219em;
+}
+.stl_10 {
+	letter-spacing: -0.0033em;
+}
+
+.stl_ie .stl_10 {
+	letter-spacing: -0.1399px;
+}
+.stl_11 {
+	letter-spacing: -0.0009em;
+}
+
+.stl_ie .stl_11 {
+	letter-spacing: -0.0366px;
+}
+.stl_12 {
+	font-size: 1.999995em;
+	font-family: "FFUDUT+Montserrat-Bold";
+	color: #0059A5;
+}
+.stl_13 {
+	letter-spacing: -0.0021em;
+}
+
+.stl_ie .stl_13 {
+	letter-spacing: -0.0669px;
+}
+.stl_14 {
+	letter-spacing: -0.0024em;
+}
+
+.stl_ie .stl_14 {
+	letter-spacing: -0.0773px;
+}
+.stl_15 {
+	letter-spacing: -0.0028em;
+}
+
+.stl_ie .stl_15 {
+	letter-spacing: -0.0903px;
+}
